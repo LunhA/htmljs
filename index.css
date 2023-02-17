@@ -1,0 +1,10 @@
+.member-list {
+  list-style-type: none;
+}
+
+.member-list li {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2px;
+}
